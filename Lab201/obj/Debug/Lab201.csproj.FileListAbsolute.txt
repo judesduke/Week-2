@@ -3,3 +3,5 @@ C:\Users\judes\Source\Repos\Week-27\Lab201\bin\Debug\Lab201.pdb
 C:\Users\judes\Source\Repos\Week-27\Lab201\obj\Debug\Lab201.csprojResolveAssemblyReference.cache
 C:\Users\judes\Source\Repos\Week-27\Lab201\obj\Debug\Lab201.exe
 C:\Users\judes\Source\Repos\Week-27\Lab201\obj\Debug\Lab201.pdb
+C:\Users\judes\Documents\Week-2\Lab201\obj\Debug\Lab201.exe
+C:\Users\judes\Documents\Week-2\Lab201\obj\Debug\Lab201.pdb
